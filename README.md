@@ -1,4 +1,5 @@
 # estimacionEstadistica
+Modificacion 3 en la misma Branch_1
 Modelos estadísticos (Distribucion Estadistica) de mayor uso en Machine Learning
 Se muestran los modelos o distribuciones de mayor uso, asi:
 1. Distribucion Gaussiana
